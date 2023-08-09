@@ -1,0 +1,9 @@
+.header, .hero, .body, .bar, .footer{background-color: green;
+margin-bottom: 15px;}
+
+.box{margin: 15px 0 10px;
+min-height: 80px;
+background-color: blue;
+font-size: 30px;}
+.red{background-color: yellow;}
+.lavender{background-color: teal;}
